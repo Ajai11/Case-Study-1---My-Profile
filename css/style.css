@@ -170,3 +170,14 @@ h1{
     margin: 5px auto;
     width: 82%;
 }
+
+.social-content{
+    width: 70%;
+    min-height: 100px;
+    padding: 40px;
+    margin: 10px auto;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
